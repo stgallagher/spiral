@@ -5,4 +5,6 @@
 
 ###Usage:
 ##### ruby spiral\_run.rb MATRIX\_SIZE
-##### eg. ruby spiral\_run.rb 3  =>  _[[5, 4, 3], [6, 1, 2], [7, 8, 9]]_
+##### eg. ruby spiral\_run.rb 3  =>  _["05", "04", "03"]_
+                                     _["06", "01", "02"]_
+                                     _["07", "08", "09"]_
